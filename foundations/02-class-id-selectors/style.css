@@ -1,0 +1,19 @@
+.shared-class {
+    background-color: #FFB6C1;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#id-1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class-2 {
+    font-size: 24px;
+}
+
+#id-2 {
+    background-color: rgb(128, 253, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
